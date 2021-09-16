@@ -3,5 +3,5 @@
   <groupId>com.start</groupId>
   <artifactId>first_step</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build><finalName>This is the first step</finalName></build>
+  <build><finalName>docker-jenkin-integration</finalName></build>
 </project>
